@@ -1,0 +1,6 @@
+
+
+press F12 to open the Inspecting / Debugging console
+step 1: run a querryset on the page you want to inspect on the console tab close to the element
+the querryset might be to open or click on the element you want to inspect
+after that , press F8 to freze the page completely, then you can now inspect the element completely without any draw back
